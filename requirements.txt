@@ -1,0 +1,11 @@
+beautifulsoup4
+requests
+pandas
+matplotlib
+statsmodels
+yfinance
+seaborn
+scipy
+numpy
+datetime
+re
